@@ -1,1 +1,1 @@
-C:\Users\BRIAN\ KOSGEI\Dropbox\PC\Desktop\Rust\ Projects\guessing_game\target\debug\guessing_game.exe: C:\Users\BRIAN\ KOSGEI\Dropbox\PC\Desktop\Rust\ Projects\guessing_game\src\main.rs
+C:\Users\brian.kosgei\Documents\My\ Rust\ Projects\Rust-Projects\guessing_game\target\debug\guessing_game.exe: C:\Users\brian.kosgei\Documents\My\ Rust\ Projects\Rust-Projects\guessing_game\src\main.rs
